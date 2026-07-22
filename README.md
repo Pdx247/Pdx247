@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Pei Dongxu — Personal Homepage
+
+A clean, academic-style static personal homepage.
+
+## Run locally
+
+Open `index.html` in a browser, or serve this directory with any static web server.
